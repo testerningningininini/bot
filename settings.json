@@ -30,7 +30,10 @@
       "enabled": true,
       "repeat": true,
       "repeat-delay": 120,
-      "messages": []
+      "messages": [
+        "Moonlight Soldiers peak!",
+        "I see you!"
+      ]
     },
     "chat-log": true,
     "auto-reconnect": true,
@@ -57,7 +60,7 @@
     "avoidMobs": true,
     "combat": true,
     "beds": false,
-    "chat": false,
+    "chat": true,
     "console-commands": true
   },
   "combat": {
