@@ -29,11 +29,9 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay":1,
+      "repeat-delay":999,
       "messages": [
-        "Moonlight Soldiers peak!",
-        "I see you!"
-      ]
+        "Moonlight Soldiers peak!"      ]
     },
     "chat-log": true,
     "auto-reconnect": true,
@@ -68,8 +66,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,
